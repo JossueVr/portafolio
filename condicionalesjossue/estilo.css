@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: rgb(197, 42, 42);
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+div {
+    padding: 10px;
+    border-radius: 5px;
+    width: 300px;
+    margin: auto;
+}
+
+.positivo {
+    background-color: #4CAF50; 
+    color: #000000; 
+}
+
+.negativo {
+    background-color: #e74c3c; 
+    color: #000000; 
+}
+
+.cero {
+    background-color: #ecf0f1; 
+    color: rgb(196, 19, 19); 
+}
